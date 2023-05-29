@@ -1,0 +1,15 @@
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\bin\Debug\net7.0\CurrencyExchange.Domain.exe
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\bin\Debug\net7.0\CurrencyExchange.Domain.deps.json
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\bin\Debug\net7.0\CurrencyExchange.Domain.runtimeconfig.json
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\bin\Debug\net7.0\CurrencyExchange.Domain.dll
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\bin\Debug\net7.0\CurrencyExchange.Domain.pdb
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\CurrencyExchange.Domain.csproj.AssemblyReference.cache
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\CurrencyExchange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\CurrencyExchange.Domain.AssemblyInfoInputs.cache
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\CurrencyExchange.Domain.AssemblyInfo.cs
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\CurrencyExchange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\CurrencyExchange.Domain.dll
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\refint\CurrencyExchange.Domain.dll
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\CurrencyExchange.Domain.pdb
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\CurrencyExchange.Domain.genruntimeconfig.cache
+C:\Users\Polat FIRAT\Desktop\MeDirect\assessment\src\CurrencyExchange.Domain\obj\Debug\net7.0\ref\CurrencyExchange.Domain.dll

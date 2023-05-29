@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Api\\CurrencyExchange.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Api\\CurrencyExchange.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Api\\CurrencyExchange.Api.csproj",
+        "projectName": "CurrencyExchange.Api",
+        "projectPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Api\\CurrencyExchange.Api.csproj",
+        "packagesPath": "C:\\Users\\Polat FIRAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Polat FIRAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\CurrencyExchange.Domain.csproj": {
+                "projectPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\CurrencyExchange.Domain.csproj"
+              },
+              "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Service\\CurrencyExchange.Service.csproj": {
+                "projectPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Service\\CurrencyExchange.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\CurrencyExchange.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\CurrencyExchange.Domain.csproj",
+        "projectName": "CurrencyExchange.Domain",
+        "projectPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\CurrencyExchange.Domain.csproj",
+        "packagesPath": "C:\\Users\\Polat FIRAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Polat FIRAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Repository\\CurrencyExchange.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Repository\\CurrencyExchange.Repository.csproj",
+        "projectName": "CurrencyExchange.Repository",
+        "projectPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Repository\\CurrencyExchange.Repository.csproj",
+        "packagesPath": "C:\\Users\\Polat FIRAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Polat FIRAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\CurrencyExchange.Domain.csproj": {
+                "projectPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\CurrencyExchange.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Service\\CurrencyExchange.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Service\\CurrencyExchange.Service.csproj",
+        "projectName": "CurrencyExchange.Service",
+        "projectPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Service\\CurrencyExchange.Service.csproj",
+        "packagesPath": "C:\\Users\\Polat FIRAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Polat FIRAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\CurrencyExchange.Domain.csproj": {
+                "projectPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Domain\\CurrencyExchange.Domain.csproj"
+              },
+              "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Repository\\CurrencyExchange.Repository.csproj": {
+                "projectPath": "C:\\Users\\Polat FIRAT\\Desktop\\MeDirect\\assessment\\src\\CurrencyExchange.Repository\\CurrencyExchange.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
